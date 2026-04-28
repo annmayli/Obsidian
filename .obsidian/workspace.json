@@ -11,17 +11,60 @@
             "id": "33085a8b10082a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-view",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "Ideas/Personal Website.mdenc",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces (Abstract Data Type)"
+              "title": "Personal Website"
+            }
+          },
+          {
+            "id": "cc27594f4fb0f336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/What is Tmux?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Tmux?"
+            }
+          },
+          {
+            "id": "d77ca7808a902022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Tax software for filing personal taxes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tax software for filing personal taxes"
+            }
+          },
+          {
+            "id": "7550b656452dc47c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Queue, Stack, and Deque Interfaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interfaces (Abstract Data Type)"
+              "title": "Backlinks for The Queue, Stack, and Deque Interfaces"
             }
           },
           {
@@ -113,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interfaces (Abstract Data Type)"
+              "title": "Outgoing links from The Queue, Stack, and Deque Interfaces"
             }
           },
           {
@@ -156,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP2402/Interfaces (Abstract Data Type).md",
+                "file": "COMP2402/The Queue, Stack, and Deque Interfaces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interfaces (Abstract Data Type)"
+              "title": "Outline of The Queue, Stack, and Deque Interfaces"
             }
           },
           {
@@ -199,10 +242,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33085a8b10082a77",
+  "active": "7550b656452dc47c",
   "lastOpenFiles": [
+    "COMP2402/The Queue, Stack, and Deque Interfaces.md",
     "COMP2402/Interfaces (Abstract Data Type).md",
     "Ideas/Personal Website.mdenc",
+    "Ideas/Untitled.md",
+    "Ideas/Tax software for filing personal taxes.md",
+    "Ideas/What is Tmux?.md",
     "Ideas/Pasted image 20260425220544.png",
     "Pasted image 20260425221050.png",
     "Ideas",
